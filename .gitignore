@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Images and temporary files
+temp/
+images/
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Custom
+ticket*.txt
+node_modules/
