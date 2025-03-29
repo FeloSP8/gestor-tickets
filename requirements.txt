@@ -1,0 +1,7 @@
+mysql-connector-python>=8.0.32
+pytesseract>=0.3.10
+pillow>=9.4.0
+python-dotenv>=1.0.0
+openai>=0.27.0
+customtkinter>=5.2.0
+requests>=2.31.0
